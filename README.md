@@ -3,10 +3,18 @@
 <p align="center">
   <img src="assets/images/logo-no-background.svg" width="700" alt="Nest Logo" /></a>
 </p>
+<br>
 
 <p style="padding: 25px;">
+<br>
 
-# Used Car API
+# Used Car API - Nestjs Back end
+
+<p >
+  <img src="assets/images/car.png" width="1024" alt="Nest Logo" /></a>
+</p>
+
+
 ## Description
 The Used Car API is a simple demonstration project built with NestJS. This project showcases the use of modules and dependency injection in a NestJS application by providing a basic API for managing user authentication and car sales reports.
 
@@ -45,16 +53,11 @@ Each module is self-contained, promoting a modular architecture and enabling eas
 ## Stack 
 
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+  <img src="assets/images/stack.png" width="800" alt="Nest Typeorm and Mysql Logo" /></a>
 </p>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
-
-
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Clone the repo
 
