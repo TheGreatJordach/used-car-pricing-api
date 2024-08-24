@@ -8,6 +8,14 @@
 <p style="padding: 25px;">
 <br>
 
+
+<p align="center">
+
+[![CI Pipeline](https://github.com/TheGreatJordach/used-car-pricing-api/actions/workflows/github-ci.yml/badge.svg)](https://github.com/TheGreatJordach/used-car-pricing-api/actions/workflows/github-ci.yml)
+
+</p>
+
+
 # Used Car API - Nestjs Back end
 
 <p >
