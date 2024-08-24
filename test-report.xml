@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="I:\NEST-WORKING-DIR\used-car-pricing-api\src\app.controller.spec.ts">
+    <testCase name="AppController root should return &quot;Hello World!&quot;" duration="19"/>
+  </file>
+</testExecutions>
