@@ -11,8 +11,16 @@
 
 <p align="center">
 
-[![CI Pipeline](https://github.com/TheGreatJordach/used-car-pricing-api/actions/workflows/github-ci.yml/badge.svg)](https://github.com/TheGreatJordach/used-car-pricing-api/actions/workflows/github-ci.yml)
-
+[![CI Pipeline](https://github.com/TheGreatJordach/used-car-pricing-api/actions/workflows/github-ci.yml/badge.svg?branch=main)](https://github.com/TheGreatJordach/used-car-pricing-api/actions/workflows/github-ci.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=TheGreatJordach_used-car-pricing-api&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=TheGreatJordach_used-car-pricing-api)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=TheGreatJordach_used-car-pricing-api&metric=bugs)](https://sonarcloud.io/summary/new_code?id=TheGreatJordach_used-car-pricing-api)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=TheGreatJordach_used-car-pricing-api&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=TheGreatJordach_used-car-pricing-api)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=TheGreatJordach_used-car-pricing-api&metric=coverage)](https://sonarcloud.io/summary/new_code?id=TheGreatJordach_used-car-pricing-api)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=TheGreatJordach_used-car-pricing-api&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=TheGreatJordach_used-car-pricing-api)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=TheGreatJordach_used-car-pricing-api&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=TheGreatJordach_used-car-pricing-api)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=TheGreatJordach_used-car-pricing-api&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=TheGreatJordach_used-car-pricing-api)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=TheGreatJordach_used-car-pricing-api&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=TheGreatJordach_used-car-pricing-api)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=TheGreatJordach_used-car-pricing-api&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=TheGreatJordach_used-car-pricing-api)
 </p>
 
 
