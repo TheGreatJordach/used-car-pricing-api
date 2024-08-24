@@ -24,7 +24,7 @@
 </p>
 
 
-# Used Car API - Nestjs Back end
+# NestJS Car Price Estimation API
 
 <p >
   <img src="assets/images/car.png" width="1024" alt="Nest Logo" /></a>
@@ -34,11 +34,20 @@
 ## Description
 The Used Car API is a simple demonstration project built with NestJS. This project showcases the use of modules and dependency injection in a NestJS application by providing a basic API for managing user authentication and car sales reports.
 
-## Features:
-* **User Authentication**: Users can sign up for an account and sign in to access the API.
-* **Report Car Sales**: Authenticated users can submit reports detailing car sales, including information such as make, model, year, mileage, location, and price.
-* **Admin Review**: Submitted reports are reviewed by an admin. Once approved, the report is persisted in the database.
-* **Data Persistence**: Approved reports are stored in the database for future reference.
+## Requirement
+>This NestJS-based API provides a platform for users to estimate the potential selling price of their cars. By inputting details like make, model, year, mileage, and other relevant factors, users can receive a price estimate. Once a user successfully sells their car, they can submit a report detailing the final selling price.
+
+<p >
+  <img src="assets/projectDescription/description.png" width="1024" alt="Nest Logo" /></a>
+</p>
+
+## Key Features:
+
+* **Price Estimation**: Accurate car price estimation based on user-provided information.
+* **User Reports**: Users can submit reports of their sold vehicles, contributing to the API's accuracy.
+* **Admin Review**: Admin users can review and approve or reject user reports to ensure data integrity.
+* **Data-Driven Improvement**: The API continuously learns from submitted reports, refining its price estimation algorithms.
+* **Robust Backend**: Built on the NestJS framework for a scalable and maintainable architecture.
 
 ## API Endpoints:
 * POST /auth/signup
@@ -56,6 +65,19 @@ The Used Car API is a simple demonstration project built with NestJS. This proje
 * PATCH /reports/
     * Description: Approve or reject a report submitted by a user (admin only).
     * Body: `{ approved }`
+
+<p >
+  <img src="assets/projectDescription/routes_api.png" width="1024" alt="Nest Logo" /></a>
+</p>
+
+
+##  Technologies:
+
+* NestJS
+* TypeScript
+* [Database (e.g., PostgreSQL, MongoDB)]
+* [ORM (e.g., TypeORM, Mongoose)]
+* [Authentication/Authorization (e.g., JWT)]
 
 ## Technical Overview:
 This project is organized into several modules, each responsible for a specific aspect of the application:
