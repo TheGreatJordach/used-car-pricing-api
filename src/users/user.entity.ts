@@ -13,7 +13,7 @@ export class User {
   id: number;
   @Column()
   password: string;
-  @Column()
+  @Column({ unique: true })
   email: string;
 
   @AfterInsert()
